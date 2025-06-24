@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi there, I'm Radina Kazandzhieva
+I am a dedicated junior QA engeneer with a solid background in software testing, development, and customer service. 
 
-<!--
-**radinavm/radinavm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I Do
+Manual & Functional Testing
 
-Here are some ideas to get you started:
+Non-functional Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Understanding and applying SDLC principles
+
+### Tech Stack & Tools
+Languages & Technologies: HTML, CSS, JavaScript, PHP, SQL, C#, MySQL, AJAX, jQuery, XML
+
+Testing Tools: Postman (Basic), Trello
+
+Databases: MySQL
+
+Office & Productivity: Microsoft Office, Microsoft Word
+
+### Currently Growing In
+Advanced QA practices
+
+Automation testing techniques
