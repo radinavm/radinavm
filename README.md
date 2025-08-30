@@ -9,11 +9,11 @@ Non-functional Testing
 Understanding and applying SDLC principles
 
 ### Tech Stack & Tools
-Languages & Technologies: HTML, CSS, JavaScript, PHP, SQL, C#, MySQL, AJAX, jQuery, XML
+Languages & Technologies: PHP, SQL, C#, MySQL, AJAX, jQuery, HTML, CSS, JavaScript, XML
 
-Testing Tools: Postman (Basic), Trello
+Testing Tools: Postman (Basic), JMeter, Jenkins, Trello
 
-Databases: MySQL
+Databases: MySQL, MongoDB (Basic)
 
 Office & Productivity: Microsoft Office, Microsoft Word
 
