@@ -9,11 +9,15 @@ Non-functional Testing
 Understanding and applying SDLC principles
 
 ### Tech Stack & Tools
-Languages & Technologies: PHP, SQL, C#, MySQL, AJAX, jQuery, HTML, CSS, JavaScript, XML
+Languages & Technologies: PHP, SQL, C#, MySQL, AJAX, HTML, CSS, JavaScript, Typescript
 
 Testing Tools: Postman (Basic), JMeter, Jenkins, Trello
 
 Databases: MySQL, MongoDB (Basic)
+
+Manual QA: Test case design and execution, Test scenarios and test plans, Bug tracking and reporting, SDLC & STLC
+
+Automation QA: Playwright, REST API testing
 
 Office & Productivity: Microsoft Office, Microsoft Word
 
@@ -21,3 +25,4 @@ Office & Productivity: Microsoft Office, Microsoft Word
 Advanced QA practices
 
 Automation testing techniques
+
